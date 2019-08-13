@@ -35,7 +35,7 @@
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 100px;
+  font-size: 70px;
   letter-spacing: 1px;
   background-image: -webkit-linear-gradient(
     left,

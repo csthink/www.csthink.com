@@ -5,7 +5,7 @@
         CSTHINK
       </h1>
       <h2 class="subtitle">
-        Comming Soon...
+        Comming Soon....
       </h2>
       <div class="links">
         <Button type="primary" target="_blank" to="https://tech.csthink.com/">

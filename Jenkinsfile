@@ -9,10 +9,6 @@ pipeline {
         stage('Test') {
             steps {
                 sh 'node --version'
-            }
-        }
-        stage('Change Npm Repositry') {
-            steps {
                 sh 'npm config set registry https://registry.npm.taobao.org'
             }
         }
